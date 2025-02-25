@@ -125,6 +125,24 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-reboot {
+    display: flex;
+    align-items: center;
+    width: auto;
+    padding: 10px 2%;
+    color: #000;
+    background-color: red;
+    font-size: 14px;
+    margin: auto;
+    display: block;    
+    margin-top: 10%;
+}
+    
+.button-reboot:hover {
+    background-color: #a1a1a1;
+}
+
+
 /* Listas */
 ul {
     list-style-type: none;
